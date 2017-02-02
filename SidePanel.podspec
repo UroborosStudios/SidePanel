@@ -14,14 +14,14 @@ Pod::Spec.new do |s|
 
   s.description  = "With this framework, you can easily add left or right menu controllers on you application."
 
-  s.homepage     = "https://bitbucket.org/uroborosstudios/sidepanel"
+  s.homepage     = "https://github.com/UroborosStudios/SidePanel"
 
   s.license      = "MIT"
 
   s.author       = { "Jonathan Silva" => "jhi.290292@gmail.com" }
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://bitbucket.org/uroborosstudios/sidepanel", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/UroborosStudios/SidePanel", :tag => "1.0.0" }
 
   s.source_files  = "**/*.{h,m,swift}"
   s.exclude_files = "**/USTableViewTests.swift"
